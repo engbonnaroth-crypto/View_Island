@@ -1,0 +1,13 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  width: 100%;
+}
+header center table {
+  width: 100%;
+}
+header center table img {
+  width: 350px;
+  height: 200px;
+}
